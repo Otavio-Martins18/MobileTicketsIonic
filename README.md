@@ -42,7 +42,7 @@ Pré-requisitos
 Node.js instalado.
 Ionic CLI instalado (npm install -g @ionic/cli).
 Instalação
-Clonar e entrar na pasta: git clone https://github.com/seu-usuario/MobileTicketsIonic.git cd MobileTicketsIonic
+Clonar e entrar na pasta: git clone [https://github.com/seu-usuario/MobileTicketsIonic.git](https://github.com/Otavio-Martins18/MobileTicketsIonic.git) cd MobileTicketsIonic
 Instalar dependências: npm install
 Rodar no navegador: ionic serve
 
